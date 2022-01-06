@@ -1,6 +1,6 @@
 ---
-title: "STAT 425 Case Study 1 - Analysis of Red Wines dataset"
-authors: "Debapratim Ghosh, Tanishk Khurana, Lavanya Upadhyaya, Shantanu Solanki"
+title: "Case Study  - Analysis of Red Wines dataset"
+authors: "Debapratim Ghosh"
 date: "10/20/2021"
 output:
   html_document: default
